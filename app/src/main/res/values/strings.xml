@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">MVVM_Kotlin</string>
+    <string name="app_name">Countries</string>
     <string name="error_text">Error loading...</string>
 </resources>
